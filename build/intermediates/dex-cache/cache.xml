@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_a169ad83ea9a68895903f1ae5f56e3abaf2f1ef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_e6b74875f9795f8a81f3137ac59e0637c38cbe06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_633f392012030a8c4ae14ae1a9f242fe4a7c52a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b76f71c7c2505f8f486b8b49a439697c672459e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_6cf81cc9d390570c673ff42b3fa8c241ff8c6f76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_ec71c358476d39e1f6a7b9dd313402a60985def2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_492a72b581b90e42070f4f93f49fd10f0fabfe61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a45caebc8a26e26efacbb9f6e8e197d425d872a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e91642186850d4b61b9b4ba92db596a63ecaa96">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_01c0c20b4aca8e5e10c6249116a84addada60bf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_4acfa078ebe837ce134dca3a67a59d6e997e429d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7b855c52c415f5aaa4c0267a538809f12c743b41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_197bb94798c6b4ff1ea7733819d2f5f2c220695e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_cafc6f388c0afefb0570c9eb3fe8c7e65107e73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c57f955378c944d14f108e25cc148ba65b6b34c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_488801e1ce938ef4250eb0658d2d97f854610a95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_c793c188c686827d5e6392cc037feb8beff4d185\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_4f6f7858b28185b0c802a455fdf2df00313f5d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7276e1d03efdb369f9e7de1acd24deafa2ff9069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_06fc55a4dba0da7b9c0b5aafeeba9cdd261ed58d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ccf34d3b50e0b8b0044fc2251946863b30eef3ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_14d0910772de0fe47d364d833ab6154db5806a14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e8de3f6921935acacc2267a9b442f597bdbee03">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_78cc545a1be1bd4fe5356b0f6dd4666adc03f180\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2be0a6f730182c4ce5db4ddcaf488db31814028a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\efzet\AndroidStudioProjects\BirthdayGift\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_f731b8eab4f1a8cd8fab975003e18fe60f91f019\classes.dex" />
+    </item>
+
+</items>

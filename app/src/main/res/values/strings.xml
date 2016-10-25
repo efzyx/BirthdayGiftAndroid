@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">B-gift</string>
+    <string name="nama">Rafika Oktari</string>
+    <string name="awal">Selamat Ulang Tahun yang ke-20</string>
+    <string name="doa1">Umurnya berkah, sehat selalu, dan dihindari dari segala marabahaya</string>
+    <string name="doa2">Tercapai semua keinginan dan cita-cita</string>
+    <string name="doa3">1 tahun lagi wisuda</string>
+    <string name="doa4">Jadi hamba Allah yang bertaqwa </string>
+    <string name="doa5">Tercapai semua keinginan dan cita-citanya</string>
+    <string name="doa6">Menjadi anak yang senantiasa membanggakan orang tua</string>
+    <string name="doa7">Menjadi sosok yang berguna bagi agama dan negara serta teladan bagi orang lain</string>
+    <string name="doa8">Selalu semangat menghadapi hari-hari</string>
+    <string name="doa9">Menjadi lebih bijak menghadapi permasalahan yang datang</string>
+    <string name="doa10">Selalu semangat menghadapi hari-hari</string>
+    <string name="doa11">Menjadi pribadi yang lebih baik dari sebelumnya</string>
+    <string name="mari_berdoa">Mari Berdoa</string>
+    <string name="am">Amiin</string>
+    <string name="hmm">Hmm..</string>
+    <string name="s_harapan">Simpan Harapan</string>
+    <string name="title_activity_akhir">Akhir</string>
+    <string name="tulis">Tulis harapan untuk satu tahun kedepan, harapan hanya bisa ditulis sekali.</string>
+    <string name="l_harapan">Lihat Harapan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

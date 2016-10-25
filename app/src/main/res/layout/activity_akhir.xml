@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_akhir"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hope"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.bigif.efzet.birthdaygift.Akhir">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#334DD0E1"
+        android:hint="@string/tulis"
+        android:textSize="30sp"
+        android:id="@+id/editText2"
+        android:layout_marginTop="30dp"
+        android:gravity="top"
+        />
+
+    <Button
+        android:text="@string/s_harapan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="36dp"
+        android:id="@+id/bSimpan"
+        android:textColor="#F48FB1"
+        android:textSize="40sp" />
+</RelativeLayout>

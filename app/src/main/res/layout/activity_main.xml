@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/balon"
+    tools:context="com.bigif.efzet.birthdaygift.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/awal"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:textColor="#039BE5"
+        android:textAlignment="center"
+        android:background="#BFFCE4EC"
+        android:id="@+id/textViewSel"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nama"
+        android:fontFamily="sans-serif-light"
+        android:textSize="50sp"
+        android:textColor="#039BE5"
+        android:textAlignment="center"
+        android:background="#BFFCE4EC"
+        android:id="@+id/textViewNa"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:layout_below="@+id/textViewSel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="33dp" />
+
+    <Button
+        android:text="@string/mari_berdoa"
+        android:layout_width="400dp"
+        android:layout_height="75dp"
+        android:id="@+id/button"
+        android:layout_marginBottom="13dp"
+        android:textColor="#F50057"
+        android:textSize="40sp"
+        android:background="@drawable/button"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
